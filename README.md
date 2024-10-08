@@ -6,7 +6,7 @@ in many leadership roles including committer, release manager,
 technical board member and security response team member.
 
 
-## Key projects
+### Key projects
 
 I maintain several popular reusable Django applications:
 
@@ -33,7 +33,7 @@ when you're most likely to see me committing or responding to
 discussions.
 
 
-## Currently working on:
+### Currently working on:
 
 * A major new version of django-registration, with much-improved
   custom user-model support and a better-designed activation workflow.
@@ -42,7 +42,7 @@ discussions.
   support Python 3.13 and drop Python 3.8.
   
 
-## Find me elsewhere
+### Find me elsewhere
   
 I occasionally [blog](https://www.b-list.org) about technical topics,
 or [post about them on Mastodon](https://infosec.exchange/@ubernostrum).
