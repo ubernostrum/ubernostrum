@@ -35,11 +35,7 @@ discussions.
 
 ### Currently working on:
 
-* A major new version of django-registration, with much-improved
-  custom user-model support and a better-designed activation workflow.
-  
-* Updating all of my projects to support Django 5.1, and also to
-  support Python 3.13 and drop Python 3.8.
+* Updating all of my projects to support Python 3.13 and drop Python 3.8.
   
 
 ### Find me elsewhere
