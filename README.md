@@ -35,7 +35,7 @@ discussions.
 
 ### Currently working on:
 
-* Updating all of my projects to support Python 3.13 and drop Python 3.8.
+* Re-thinking my usual project structure.
   
 
 ### Find me elsewhere
